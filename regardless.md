@@ -1,7 +1,3 @@
-layout: page
-title: "test title"
-permalink: /irregardless
-
 <!DOCTYPE html>
 <html>
 <body>
